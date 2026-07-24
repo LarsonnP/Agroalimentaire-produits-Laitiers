@@ -46,10 +46,6 @@ Permettre le pilotage simultané de la collecte du lait, de la transformation en
 
 Power BI · Power Query · DAX · Python (pandas, numpy) · Modélisation en schéma en étoile
 
-## Fichier
-
-Le fichier `.pbix` complet est disponible dans ce dépôt (à ouvrir avec Power BI Desktop).
-
 ---
 **Paul Larsonneur** — Data Analyst
 [Email](
