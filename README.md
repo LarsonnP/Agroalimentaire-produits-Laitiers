@@ -32,15 +32,15 @@ Permettre le pilotage simultané de la collecte du lait, de la transformation en
 
 | Page | Contenu |
 |---|---|
-| Collecte | Volumes collectés, producteurs actifs, répartition par site |
-| Production | Volumes transformés, rendement, suivi des lots |
-| Analyses qualité (synthèse) | Répartition par classe, primes/pénalités, coût cumulé de la non-qualité |
-| Analyses qualité (détail/alertes) | Suivi des non-conformités, causes de non-conformité |
+| Collecte du lait | Volumes collectés, producteurs actifs, répartition par site |
+| De la collecte à la transformation | Volumes transformés, rendement, suivi des lots |
+| Qualité vue d'ensemble | Répartition par classe, primes/pénalités, coût cumulé de la non-qualité |
+| Alertes qualités : points critques | Suivi des non-conformités, causes de non-conformité |
 | Qualité physico-chimique & Élevages | Effet race/certification, matrice de priorisation des producteurs |
-| Vue financière | Chiffre d'affaires, prix au litre, rentabilité par produit |
+| Performances financière | Chiffre d'affaires, prix au litre, rentabilité par produit |
 | Top profil physico-chimique | Analyse comparative des meilleurs jours vs moyenne |
-| Certification et performance | Impact de la certification sur la qualité et les volumes |
-| Gouvernance & Qualité des données | Indicateurs de fiabilité et démarche méthodologique |
+| La certification paie-t-elle ? | Impact de la certification sur la qualité et les volumes |
+| Gouvernance fiabilité des données | Indicateurs de fiabilité et démarche méthodologique |
 
 ## Outils
 
